@@ -7,11 +7,11 @@
     <artifactId>neo4j-driver-session-test</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <maven.compiler.source>16</maven.compiler.source>
-        <maven.compiler.target>16</maven.compiler.target>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jmh.version>1.32</jmh.version>
-        <javac.target>16</javac.target>
+        <javac.target>11</javac.target>
         <uberjar.name>benchmarks</uberjar.name>
     </properties>
     <dependencies>
